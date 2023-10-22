@@ -1,0 +1,447 @@
+Query: extension obstruct dimension das orang 
+ 
+Inverted file implementation took 7.77 seconds 
+Elasticsearch implementation took 0.05 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: _NyUMosBHh_bflI4Otit with score 0.2862364115587414 
+Elasticsearch implementation: Ld2UMosBHh_bflI4eESr with score 14.175138 
+
+Inverted file implementation: ktyUMosBHh_bflI4M9BP with score 0.22129585757908687 
+Elasticsearch implementation: h92UMosBHh_bflI4d0L2 with score 14.015709 
+
+Inverted file implementation: udyUMosBHh_bflI4T_XR with score 0.17272840930199262 
+Elasticsearch implementation: nt2UMosBHh_bflI4dj9u with score 13.240161 
+
+Inverted file implementation: Vd2UMosBHh_bflI4dDkC with score 0.17272840930199262 
+Elasticsearch implementation: StyTMosBHh_bflI48I7S with score 12.675108 
+
+Inverted file implementation: AN2UMosBHh_bflI4Xwts with score 0.16112794477837916 
+Elasticsearch implementation: _9yUMosBHh_bflI4Otmt with score 12.675108 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: therefor gemma breakdown litmus 
+ 
+Inverted file implementation took 10.69 seconds 
+Elasticsearch implementation took 0.03 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: gt2UMosBHh_bflI4by-p with score 0.1957741684793019 
+Elasticsearch implementation: ft2UMosBHh_bflI4YQ24 with score 15.964751 
+
+Inverted file implementation: ft2UMosBHh_bflI4YQ24 with score 0.18548793122572102 
+Elasticsearch implementation: G9yUMosBHh_bflI4S-9p with score 14.270347 
+
+Inverted file implementation: ut2UMosBHh_bflI4gFd8 with score 0.1677020266339265 
+Elasticsearch implementation: gN2UMosBHh_bflI4ZxpB with score 12.630608 
+
+Inverted file implementation: 7NyUMosBHh_bflI4M89P with score 0.1677020266339265 
+Elasticsearch implementation: ddyUMosBHh_bflI4N9V4 with score 11.005276 
+
+Inverted file implementation: OdyUMosBHh_bflI4LsmL with score 0.16398270013833752 
+Elasticsearch implementation: 4d2UMosBHh_bflI4h2gT with score 11.005276 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: tetrad phosphor 
+ 
+Inverted file implementation took 0.15 seconds 
+Elasticsearch implementation took 0.03 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: 49yUMosBHh_bflI4K8VM with score 0.3516872818236337 
+Elasticsearch implementation: -dyUMosBHh_bflI4NNGO with score 14.704532 
+
+Inverted file implementation: qtyUMosBHh_bflI4FrCU with score 0.2692655154273173 
+Elasticsearch implementation: 49yUMosBHh_bflI4K8VM with score 14.186432 
+
+Inverted file implementation: BN2UMosBHh_bflI4bChn with score 0.22765496490874892 
+Elasticsearch implementation: Dt2UMosBHh_bflI4bSk_ with score 12.992211 
+
+Inverted file implementation: Dt2UMosBHh_bflI4bSk_ with score 0.22502256278226365 
+Elasticsearch implementation: qtyUMosBHh_bflI4FrCU with score 12.098995 
+
+Inverted file implementation: O92UMosBHh_bflI4bSk_ with score 0.2250082623542783 
+Elasticsearch implementation: CdyUMosBHh_bflI4ONfs with score 12.098995 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: ilot infector rebound joy week 
+ 
+Inverted file implementation took 0.79 seconds 
+Elasticsearch implementation took 0.05 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: rN2UMosBHh_bflI4g14K with score 0.156378715242674 
+Elasticsearch implementation: xt2UMosBHh_bflI4g1_F with score 16.02426 
+
+Inverted file implementation: ANyUMosBHh_bflI4N9V4 with score 0.156378715242674 
+Elasticsearch implementation: 2t2UMosBHh_bflI4ZBS2 with score 15.4989395 
+
+Inverted file implementation: 2t2UMosBHh_bflI4ZBS2 with score 0.13226427555541198 
+Elasticsearch implementation: Ut2UMosBHh_bflI4g1_C with score 15.4989395 
+
+Inverted file implementation: Ut2UMosBHh_bflI4g1_C with score 0.13226427555541198 
+Elasticsearch implementation: DtyUMosBHh_bflI4HbZk with score 15.20008 
+
+Inverted file implementation: Tt2UMosBHh_bflI4hGKq with score 0.12481550206056545 
+Elasticsearch implementation: ANyUMosBHh_bflI4N9V4 with score 13.92721 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: indic washboard workbench wrench parallax 
+ 
+Inverted file implementation took 22.68 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: styUMosBHh_bflI4B6Ng with score 0.26609505547601936 
+Elasticsearch implementation: SdyUMosBHh_bflI4PNs8 with score 13.287512 
+
+Inverted file implementation: IdyUMosBHh_bflI4AZx8 with score 0.1959336146017059 
+Elasticsearch implementation: MNyUMosBHh_bflI4J8HY with score 13.264066 
+
+Inverted file implementation: TtyUMosBHh_bflI4AZx8 with score 0.18733351313496852 
+Elasticsearch implementation: xNyUMosBHh_bflI4PNs8 with score 12.965943 
+
+Inverted file implementation: utyUMosBHh_bflI4GLJO with score 0.1860860357411871 
+Elasticsearch implementation: W9yUMosBHh_bflI4HbVk with score 12.82049 
+
+Inverted file implementation: -9yUMosBHh_bflI4AZt8 with score 0.17865108503465185 
+Elasticsearch implementation: TNyUMosBHh_bflI4Eqzr with score 12.51835 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: quieten 
+ 
+Inverted file implementation took 0.01 seconds 
+Elasticsearch implementation took 0.03 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: Nt2UMosBHh_bflI4gFh8 with score 0.235948580475699 
+Elasticsearch implementation: Nt2UMosBHh_bflI4gFh8 with score 14.446123 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: crept effortless wad 
+ 
+Inverted file implementation took 0.09 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: qtyUMosBHh_bflI4TPHw with score 0.08356898572428846 
+Elasticsearch implementation: wd2UMosBHh_bflI4eESr with score 10.115998 
+
+Inverted file implementation: Jd2UMosBHh_bflI4gl0h with score 0.08093579788618602 
+Elasticsearch implementation: w92UMosBHh_bflI4eUZW with score 10.115998 
+
+Inverted file implementation: Y92UMosBHh_bflI4d0L2 with score 0.08093579788618602 
+Elasticsearch implementation: qtyUMosBHh_bflI4TPHw with score 8.446608 
+
+Inverted file implementation: xt2UMosBHh_bflI4Yg-t with score 0.08093579788618602 
+Elasticsearch implementation: xt2UMosBHh_bflI4Yg-t with score 8.446608 
+
+Inverted file implementation: ztyUMosBHh_bflI4UfVl with score 0.0702486534756883 
+Elasticsearch implementation: Y92UMosBHh_bflI4d0L2 with score 8.446608 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: caudal brown pith cogener element 
+ 
+Inverted file implementation took 12.58 seconds 
+Elasticsearch implementation took 0.06 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: mtyUMosBHh_bflI4H7dS with score 0.23596704694786552 
+Elasticsearch implementation: zt2UMosBHh_bflI4by6p with score 15.732202 
+
+Inverted file implementation: rdyUMosBHh_bflI4FK3j with score 0.23444079994031336 
+Elasticsearch implementation: 2t2UMosBHh_bflI4cjQD with score 15.732202 
+
+Inverted file implementation: kdyUMosBHh_bflI4GLFI with score 0.21519059016245193 
+Elasticsearch implementation: hd2UMosBHh_bflI4flJT with score 14.096516 
+
+Inverted file implementation: TtyTMosBHh_bflI44oc2 with score 0.20545584604972103 
+Elasticsearch implementation: kdyUMosBHh_bflI4GLFI with score 11.137899 
+
+Inverted file implementation: WNyTMosBHh_bflI47Isz with score 0.20514330737114708 
+Elasticsearch implementation: rdyUMosBHh_bflI4FK3j with score 11.059224 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: level raft 
+ 
+Inverted file implementation took 18.21 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: xtyUMosBHh_bflI4Pdy5 with score 0.1725741684996463 
+Elasticsearch implementation: j9yUMosBHh_bflI4KcOG with score 12.7574215 
+
+Inverted file implementation: YN2UMosBHh_bflI4g2DF with score 0.17129669958947624 
+Elasticsearch implementation: btyUMosBHh_bflI4N9V4 with score 12.441025 
+
+Inverted file implementation: jN2UMosBHh_bflI4Zhdr with score 0.17129669958947624 
+Elasticsearch implementation: fd2UMosBHh_bflI4g1_F with score 12.441025 
+
+Inverted file implementation: Fd2UMosBHh_bflI4YAx8 with score 0.16571134213479977 
+Elasticsearch implementation: BN2UMosBHh_bflI4e0sP with score 9.917592 
+
+Inverted file implementation: V92UMosBHh_bflI4d0Eo with score 0.16571134213479977 
+Elasticsearch implementation: C92UMosBHh_bflI4e0sP with score 9.725317 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: encyclopedia list aerogen serial 
+ 
+Inverted file implementation took 3.45 seconds 
+Elasticsearch implementation took 0.05 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: G9yUMosBHh_bflI4Se1C with score 0.32734143525052456 
+Elasticsearch implementation: XdyUMosBHh_bflI4U_i6 with score 15.95899 
+
+Inverted file implementation: yN2UMosBHh_bflI4cjUD with score 0.32734143525052456 
+Elasticsearch implementation: St2UMosBHh_bflI4dDrp with score 15.95899 
+
+Inverted file implementation: E9yUMosBHh_bflI4ONfs with score 0.2162194357209701 
+Elasticsearch implementation: xNyUMosBHh_bflI4Otmt with score 12.630835 
+
+Inverted file implementation: L9yUMosBHh_bflI4PNw8 with score 0.19486637985358848 
+Elasticsearch implementation: YdyUMosBHh_bflI4Ufds with score 12.630835 
+
+Inverted file implementation: fN2UMosBHh_bflI4bi3m with score 0.19486637985358848 
+Elasticsearch implementation: g9yUMosBHh_bflI4Ufds with score 12.244948 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: canonic soma swish peller 
+ 
+Inverted file implementation took 0.06 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: D92UMosBHh_bflI4eUdW with score 0.2284779833665621 
+Elasticsearch implementation: ot2UMosBHh_bflI4eUdW with score 15.842702 
+
+Inverted file implementation: ot2UMosBHh_bflI4eUdW with score 0.21863777146615854 
+Elasticsearch implementation: Qd2UMosBHh_bflI4f1e7 with score 15.842702 
+
+Inverted file implementation: Qd2UMosBHh_bflI4f1e7 with score 0.21536852067282583 
+Elasticsearch implementation: PN2UMosBHh_bflI4gl0h with score 15.641942 
+
+Inverted file implementation: PN2UMosBHh_bflI4gl0h with score 0.21019106743746538 
+Elasticsearch implementation: D92UMosBHh_bflI4eUdW with score 15.103214 
+
+Inverted file implementation: 9d2UMosBHh_bflI4gFh8 with score 0.09115473178616645 
+Elasticsearch implementation: 9d2UMosBHh_bflI4gFh8 with score 12.556766 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: chimney sola 
+ 
+Inverted file implementation took 0.01 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: iN2UMosBHh_bflI4eUdW with score 0.2780487008390056 
+Elasticsearch implementation: iN2UMosBHh_bflI4eUdW with score 18.69001 
+
+Inverted file implementation: LNyTMosBHh_bflI4-pY3 with score 0.14598008485544828 
+Elasticsearch implementation: LNyTMosBHh_bflI4-pY3 with score 14.446123 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: salad 
+ 
+Inverted file implementation took 0.01 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: nd2UMosBHh_bflI4gFh8 with score 0.3973001157248001 
+Elasticsearch implementation: nd2UMosBHh_bflI4gFh8 with score 18.094366 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: bootstrap objection 
+ 
+Inverted file implementation took 0.62 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: qt2UMosBHh_bflI4cjUD with score 0.38980553811897095 
+Elasticsearch implementation: mtyUMosBHh_bflI4Wv_M with score 12.4344 
+
+Inverted file implementation: CN2UMosBHh_bflI4dT23 with score 0.3881753295597998 
+Elasticsearch implementation: VtyUMosBHh_bflI4Wf87 with score 12.286802 
+
+Inverted file implementation: 89yUMosBHh_bflI4GLFI with score 0.2614755320231531 
+Elasticsearch implementation: 4dyUMosBHh_bflI4QeO5 with score 12.002932 
+
+Inverted file implementation: JNyUMosBHh_bflI4GLJI with score 0.25966913048162127 
+Elasticsearch implementation: qt2UMosBHh_bflI4cjUD with score 11.632447 
+
+Inverted file implementation: td2UMosBHh_bflI4ayW5 with score 0.25621467716423 
+Elasticsearch implementation: CN2UMosBHh_bflI4dT23 with score 11.5415945 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: scaffold runway 
+ 
+Inverted file implementation took 0.10 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: ed2UMosBHh_bflI4fVB7 with score 0.40524483187938276 
+Elasticsearch implementation: ed2UMosBHh_bflI4fVB7 with score 15.2651415 
+
+Inverted file implementation: XNyUMosBHh_bflI4Se1C with score 0.20618626250953456 
+Elasticsearch implementation: dtyUMosBHh_bflI4Se1C with score 13.625437 
+
+Inverted file implementation: DN2UMosBHh_bflI4d0Ao with score 0.1905815585364681 
+Elasticsearch implementation: XNyUMosBHh_bflI4Se1C with score 13.456152 
+
+Inverted file implementation: dtyUMosBHh_bflI4Se1C with score 0.13672372227621027 
+Elasticsearch implementation: DN2UMosBHh_bflI4d0Ao with score 12.2939415 
+
+Inverted file implementation: l9yUMosBHh_bflI4QOBH with score 0.08429325945098724 
+Elasticsearch implementation: atyUMosBHh_bflI4DqgY with score 9.999308 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: humankind dive pluricellular deflector flume 
+ 
+Inverted file implementation took 0.14 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: Z9yUMosBHh_bflI4TPHw with score 0.31527311732029795 
+Elasticsearch implementation: Z9yUMosBHh_bflI4TPHw with score 17.493864 
+
+Inverted file implementation: ttyTMosBHh_bflI44oc2 with score 0.14065562827138492 
+Elasticsearch implementation: ttyTMosBHh_bflI44oc2 with score 13.491693 
+
+Inverted file implementation: 6NyUMosBHh_bflI4GLJO with score 0.10307386246108124 
+Elasticsearch implementation: pdyUMosBHh_bflI4I7uJ with score 11.216951 
+
+Inverted file implementation: pdyUMosBHh_bflI4I7uJ with score 0.10307386246108124 
+Elasticsearch implementation: 6NyUMosBHh_bflI4GLJO with score 11.216951 
+
+Inverted file implementation: pNyUMosBHh_bflI4DqcY with score 0.08510947799712262 
+Elasticsearch implementation: 7tyUMosBHh_bflI4Jb4j with score 10.938759 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: direct mo 
+ 
+Inverted file implementation took 30.30 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: Z9yUMosBHh_bflI4N9V4 with score 0.44088480075054604 
+Elasticsearch implementation: P92UMosBHh_bflI4e03f with score 14.406894 
+
+Inverted file implementation: qNyUMosBHh_bflI4EKko with score 0.33937307675977796 
+Elasticsearch implementation: Z9yUMosBHh_bflI4N9V4 with score 14.183416 
+
+Inverted file implementation: 49yUMosBHh_bflI4Mcy3 with score 0.2752453450715214 
+Elasticsearch implementation: qNyUMosBHh_bflI4EKko with score 13.289983 
+
+Inverted file implementation: 0N2UMosBHh_bflI4fE21 with score 0.2568933199105146 
+Elasticsearch implementation: 49yUMosBHh_bflI4Mcy3 with score 12.733946 
+
+Inverted file implementation: DtyTMosBHh_bflI44og9 with score 0.23946787804891076 
+Elasticsearch implementation: DtyTMosBHh_bflI44og9 with score 12.5361595 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: umbral xenolith wilt withstand 
+ 
+Inverted file implementation took 0.25 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: HdyUMosBHh_bflI4J8HY with score 0.3776452289417473 
+Elasticsearch implementation: HdyUMosBHh_bflI4J8HY with score 15.441839 
+
+Inverted file implementation: MtyTMosBHh_bflI4_5px with score 0.3075938849447785 
+Elasticsearch implementation: MtyTMosBHh_bflI4_5px with score 14.6304865 
+
+Inverted file implementation: _tyTMosBHh_bflI46Yni with score 0.26407063338117337 
+Elasticsearch implementation: pNyUMosBHh_bflI4B6Ng with score 14.139208 
+
+Inverted file implementation: pNyUMosBHh_bflI4B6Ng with score 0.23243410001043607 
+Elasticsearch implementation: _tyTMosBHh_bflI46Yni with score 14.038033 
+
+Inverted file implementation: sdyTMosBHh_bflI4_Jmy with score 0.2292088517359406 
+Elasticsearch implementation: X9yTMosBHh_bflI4-JQX with score 13.984587 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: beng fathom simulacrum play cam 
+ 
+Inverted file implementation took 10.93 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: -9yUMosBHh_bflI4TvFV with score 0.2568996926313932 
+Elasticsearch implementation: nt2UMosBHh_bflI4Yg-t with score 14.346908 
+
+Inverted file implementation: nt2UMosBHh_bflI4Yg-t with score 0.2201155376714369 
+Elasticsearch implementation: -9yUMosBHh_bflI4TvFV with score 14.157652 
+
+Inverted file implementation: Jd2UMosBHh_bflI4cTQv with score 0.15310826420507237 
+Elasticsearch implementation: xt2UMosBHh_bflI4YAt8 with score 13.120128 
+
+Inverted file implementation: VdyUMosBHh_bflI4TvNV with score 0.14175769504459745 
+Elasticsearch implementation: Jd2UMosBHh_bflI4cTQv with score 13.112453 
+
+Inverted file implementation: Pd2UMosBHh_bflI4dDgC with score 0.14175769504459745 
+Elasticsearch implementation: Tt2UMosBHh_bflI4cjfh with score 13.112453 
+
+------------------------------------------------------------------------------------------------------------------ 
+
+Query: umbrella outclass howe 
+ 
+Inverted file implementation took 0.18 seconds 
+Elasticsearch implementation took 0.04 seconds 
+ 
+Lets compare the results of the two implementations: 
+
+Inverted file implementation: nNyUMosBHh_bflI4LMfK with score 0.2191248860895616 
+Elasticsearch implementation: nNyUMosBHh_bflI4LMfK with score 12.724048 
+
+Inverted file implementation: DtyUMosBHh_bflI4UfZl with score 0.1395000023297302 
+Elasticsearch implementation: rtyUMosBHh_bflI4T_TR with score 11.849268 
+
+Inverted file implementation: rtyUMosBHh_bflI4T_TR with score 0.13947448881030064 
+Elasticsearch implementation: DtyUMosBHh_bflI4UfZl with score 11.849268 
+
+Inverted file implementation: kd2UMosBHh_bflI4d0Ao with score 0.11448973429487487 
+Elasticsearch implementation: tdyUMosBHh_bflI4KcSO with score 10.416936 
+
+Inverted file implementation: TdyTMosBHh_bflI4-pY3 with score 0.10266376354664151 
+Elasticsearch implementation: TdyTMosBHh_bflI4-pY3 with score 10.345547 
+
+------------------------------------------------------------------------------------------------------------------ 
+
