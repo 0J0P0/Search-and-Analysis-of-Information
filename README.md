@@ -7,7 +7,7 @@ This guide outlines the steps to run the container, access its shell, verify the
 
 ### 1. Run the container
 
-Use the following command to start the Docker container in the background:
+First install and open Docker Desktop. Once Docker Desktop is running, you can start the container by running the following command in your terminal:
 
 ```bash
 docker-compose up -d
@@ -16,6 +16,8 @@ docker-compose up -d
 - The `-d` flag runs the container in "detached" mode, allowing it to run in the background.
 - Ensure your terminal is in the same directory as the `docker-compose.yml` file.
   - If not, navigate to the directory containing the `docker-compose.yml` file before running the command. The `docker-compose.yml` and `Dockerfile` files should be in the same directory.
+
+The Docker Desktop has to be running in order to execute the command. The container will take a few minutes to start up.
 ---
 
 ### 2. Open a shell in the container
@@ -36,7 +38,7 @@ docker exec -it elasticsearch /bin/bash
 After accessing the container shell, verify that Python 3.11 is installed by running:
 
 ```bash
-python3 --version
+python3.11 --version
 ```
 
 This should display something like:
@@ -69,7 +71,7 @@ You should see the `CAI` folder listed in the directory.
 
 ---
 
-### 3. Exit the container shell
+#### 2.3. Exit the container shell
 
 When you are done interacting with the container shell, you can exit by typing:
 
@@ -77,11 +79,31 @@ When you are done interacting with the container shell, you can exit by typing:
 exit
 ```
 
+
 This will close the shell but leave the container running in the background.
+
+### 4. Open container environment in VSCode
+
+To open the container environment in VSCode, in the docker extension, right click on the container and select "Attach Visual Studio Code".
+
+![Open in Visual Studio Code](Figs/vsc1.png)
+
+Once inside the container, you can open the terminal by pressing `Ctrl + J`. To ensure that the container environment is working correctly, look at the left bottom corner of the VSCode window. It should show the name of the container you are working on.
+
+![Container Enviroment](Figs/vsc2.png)
+
+#### 4.1 Install necessary extensions
+
+To install the necessary extensions, click on the extensions icon on the left side of the window. Search for the following extensions and install them:
+
+- Python
+- Jupyter
+
+And select the adequate Python interpreter to be able to run the notebooks.
 
 ---
 
-### 4. Stop the container
+### 5. Stop the container
 
 When you are finished with the container, you can stop it by running the following command:
 
@@ -89,12 +111,8 @@ When you are finished with the container, you can stop it by running the followi
 docker-compose stop
 ```
 
-This will stop the container but keep it available for future use.
+This will stop the container but keep it available for future use. 
+
+Similarly, from the docker extension in VSCode, you can right click on the container and select "Stop".
 
 ---
-
-# Contact for Questions
-
-If you have any questions or run into issues, feel free to reach out via:
-
-- **Email**: juan.pablo.zaldivar@estudiantat.upc.edu
