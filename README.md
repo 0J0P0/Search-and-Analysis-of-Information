@@ -82,7 +82,7 @@ exit
 
 This will close the shell but leave the container running in the background.
 
-### 4. Open container environment in VSCode
+### 3. Open container environment in VSCode
 
 To open the container environment in VSCode, in the docker extension, right click on the container and select "Attach Visual Studio Code".
 
@@ -92,7 +92,7 @@ Once inside the container, you can open the terminal by pressing `Ctrl + J`. To 
 
 ![Container Enviroment](Figs/vsc2.png)
 
-#### 4.1 Install necessary extensions
+#### 3.1 Install necessary extensions
 
 To install the necessary extensions, click on the extensions icon on the left side of the window. Search for the following extensions and install them:
 
@@ -103,7 +103,7 @@ And select the adequate Python interpreter to be able to run the notebooks.
 
 ---
 
-### 5. Stop the container
+### 4. Stop the container
 
 When you are finished with the container, you can stop it by running the following command:
 
